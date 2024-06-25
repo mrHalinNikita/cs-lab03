@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'>
-<text x='20' y='20'>'2'</text><rect x='50' y='0' width='20' height='30'></rect>
+<svg width='400' height='700' viewBox='0 0 400 700' xmlns='http://www.w3.org/2000/svg'>
+<text x='20' y='116' font-size='116'>'2'</text><rect x='283' y='0' width='20' height='233' stroke='#474A51' fill='blue'></rect>
+<text x='20' y='349' font-size='116'>'5'</text><rect x='283' y='233' width='50' height='233' stroke='#474A51' fill='blue'></rect>
+<text x='20' y='582' font-size='116'>'3'</text><rect x='283' y='466' width='30' height='233' stroke='#474A51' fill='blue'></rect>
 </svg>
