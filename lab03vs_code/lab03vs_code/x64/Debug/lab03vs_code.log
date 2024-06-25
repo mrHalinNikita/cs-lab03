@@ -1,3 +1,8 @@
 ﻿  lab03vs_code.cpp
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(62,35): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(63,35): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(105,29): warning C4244: аргумент: преобразование "_Ty" в "double", возможна потеря данных
+          with
+          [
+              _Ty=size_t
+          ]
   lab03vs_code.vcxproj -> C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\x64\Debug\lab03vs_code.exe
