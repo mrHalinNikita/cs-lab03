@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="histogramcpp.cpp" />
     <ClCompile Include="lab03vs_code.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="histogram.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
