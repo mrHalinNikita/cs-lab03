@@ -1,9 +1,8 @@
-﻿  lab03vs_code.cpp
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(51,35): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(112,42): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(114,46): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(114,32): warning C4244: инициализация: преобразование "size_t" в "const double", возможна потеря данных
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(115,26): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(117,59): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
-C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\lab03vs_code.cpp(117,29): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+﻿  svg.cpp
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\svg.cpp(57,42): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\svg.cpp(59,46): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\svg.cpp(59,32): warning C4244: инициализация: преобразование "size_t" в "const double", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\svg.cpp(60,26): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\svg.cpp(62,59): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\lab03vs_code\svg.cpp(62,29): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
   lab03vs_code.vcxproj -> C:\Users\Sergei\Desktop\lab03\project\lab03vs_code\x64\Debug\lab03vs_code.exe

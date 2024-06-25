@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg width='400' height='700' viewBox='0 0 400 700' xmlns='http://www.w3.org/2000/svg'>
-<text x='20' y='116' font-size='116'>'2'</text><rect x='283' y='0' width='20' height='233' stroke='#474A51' fill='blue'></rect>
-<text x='20' y='349' font-size='116'>'5'</text><rect x='283' y='233' width='50' height='233' stroke='#474A51' fill='blue'></rect>
-<text x='20' y='582' font-size='116'>'3'</text><rect x='283' y='466' width='30' height='233' stroke='#474A51' fill='blue'></rect>
-</svg>
+<svg width='400' height='700' viewBox='-50 -50 400 700' xmlns='http://www.w3.org/2000/svg'>
+<text x='-40' y='116' font-size='116'>'2'</text><rect x='283' y='0' width='20' height='233' stroke='#474A51' fill='#DC143C'></rect>
+<text x='-40' y='349' font-size='116'>'5'</text><rect x='283' y='233' width='50' height='233' stroke='#474A51' fill='#DC143C'></rect>
+<text x='-40' y='582' font-size='116'>'3'</text><rect x='283' y='466' width='30' height='233' stroke='#474A51' fill='#DC143C'></rect>
+<line x1='30' y1='0' x2='400' y2='0' stroke='#474A51' stroke-width='' stroke-dasharray='10 10'/><line x1='350' y1='0' x2='350' y2='650' stroke='#474A51' stroke-width='' stroke-dasharray='10 10'/><line x1='350' y1='650' x2='30' y2='650' stroke='#474A51' stroke-width='' stroke-dasharray='10 10'/><line x1='30' y1='650' x2='30' y2='0' stroke='#474A51' stroke-width='' stroke-dasharray='0'/></svg>
